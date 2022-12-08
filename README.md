@@ -11,7 +11,7 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a href="#"><img align="right" src="https://i.ibb.co/tJC7pJP/Green-Teal-Geometric-Modern-Computer-Programmer-Code-Editor-Quotes-Instagram-Post.gif" width="300" alt="Masud's Dev Card"/></a>
+<a href="#"><img align="right" src="https://i.ibb.co/bW0gb9n/Green-Teal-Geometric-Modern-Computer-Programmer-Code-Editor-Quotes-Instagram-Post-1.gif" width="300" alt="Masud's Dev Card"/></a>
 </div>
 
 # About Me
