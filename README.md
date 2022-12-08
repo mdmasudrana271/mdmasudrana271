@@ -11,7 +11,7 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://i.ibb.co/DMj2cGR/Black-Technology-Linked-In-Banner.gif" width="200" alt="Mir Hussain's Dev Card"/></a>
+<a href="#"><img align="right" src="https://i.ibb.co/DMj2cGR/Black-Technology-Linked-In-Banner.gif" width="200" alt="Mir Hussain's Dev Card"/></a>
 </div>
 
 # About Me
