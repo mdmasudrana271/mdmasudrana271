@@ -16,8 +16,8 @@
 
 # About Me
 - 👋 Hi, I’m Md Abdullah Al Masud
-- 👀 I’m interested in web develpment
-- 🌱 I’m currently learning Mern Stack Develpment On Programming Hero
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Mern Stack Development On Programming Hero
 - 📫 How to reach me at mdabdullahal304@gmail.com
 
 
