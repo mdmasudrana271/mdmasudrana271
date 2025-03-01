@@ -81,7 +81,7 @@
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,firebase" height="80"/>
+      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,firebase" height="80"/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres,mysql" height="80"/>
