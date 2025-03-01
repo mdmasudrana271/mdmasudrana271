@@ -84,18 +84,19 @@
       <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,firebase" height="80"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres" height="80"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres,mysql" height="80"/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=c,cpp,python,js" height="80"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" height="80"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,linux" height="80"/>
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 
