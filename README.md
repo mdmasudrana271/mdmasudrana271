@@ -24,7 +24,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Mern Stack Development On Programming Hero
 - 📫 How to reach me at mdabdullahal304@gmail.com
-- <p align="left">
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-abdullahalmasud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-abdullahalmasud/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mdabdullamasud.rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdabdullamasud.rana" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mdabdullahal30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mdabdullahal30" height="30" width="40" /></a>
