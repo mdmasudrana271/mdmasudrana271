@@ -44,34 +44,35 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <table>
   <tr>
     <td colspan="4" align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=00FFD1&width=600&lines=🚀+My+Technology+Stack+🚀" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=00FFD1&width=800&lines=My+Technology+Stack" />
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="200px"><b>Languages</b></td>
-    <td align="center" width="200px"><b>Frontend</b></td>
-    <td align="center" width="200px"><b>Backend</b></td>
-    <td align="center" width="200px"><b>Tools & Others</b></td>
+    <td align="center" width="220px"><b>Languages</b></td>
+    <td align="center" width="220px"><b>Frontend</b></td>
+    <td align="center" width="220px"><b>Backend</b></td>
+    <td align="center" width="220px"><b>Tools & Others</b></td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,js" height="55"/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,js" height="65"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,firebase" height="55"/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,firebase" height="65"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres" height="55"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres" height="65"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" height="55"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" height="65"/>
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 
