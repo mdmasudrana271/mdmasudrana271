@@ -57,16 +57,16 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,firebase" height="65"/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,firebase" height="70"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres" height="65"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres" height="70"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,js" height="65"/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,js" height="70"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" height="65"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" height="70"/>
     </td>
   </tr>
 </table>
