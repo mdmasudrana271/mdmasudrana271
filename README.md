@@ -138,21 +138,22 @@
     </td>
   </tr>
 
-  <!-- Third row: Codeforces and CodeChef badges -->
+  <!-- Third row: Codeforces and CodeChef performance stats -->
   <tr>
     <td align="center">
       <a href="https://codeforces.com/profile/abdullahal304">
-        <img width="400" src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?&style=flat&logo=codeforces&logoColor=white" alt="Codeforces" />
+        <img width="400" src="https://cp-profile-card.vercel.app/api/abdullahal304?theme=dark&font=Montserrat&ext=heatmap" alt="Codeforces" />
       </a>
     </td>
     <td align="center">
       <a href="https://www.codechef.com/users/mdabdullahal30">
-        <img width="400" src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=flat&logo=codechef&logoColor=white" alt="Codechef" />
+        <img width="400" src="https://profile-display.vercel.app/api/mdabdullahal30?theme=dark&font=Montserrat&ext=heatmap" alt="Codechef" />
       </a>
     </td>
   </tr>
 </table>
 </div>
+
 
 
 
