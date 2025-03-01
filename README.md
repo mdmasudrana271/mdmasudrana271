@@ -73,21 +73,21 @@
   </tr>
 
   <tr>
+    <td align="center" width="250px"><b>Languages</b></td>
     <td align="center" width="250px"><b>Frontend</b></td>
     <td align="center" width="250px"><b>Backend</b></td>
-    <td align="center" width="250px"><b>Languages</b></td>
     <td align="center" width="250px"><b>Tools & Others</b></td>
   </tr>
 
   <tr>
     <td align="center">
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,js" height="80"/>
+    </td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,firebase" height="80"/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres,mysql" height="80"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,js" height="80"/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,linux" height="80"/>
