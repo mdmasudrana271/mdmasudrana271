@@ -7,26 +7,32 @@
 
 ---
 
-## 📬 **Reach me out**
+## 📬 **Reach Me Out**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-abdullahalmasud/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/md-abdullahalmasud/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="45"/>
   </a>
-  <a href="https://www.facebook.com/mdabdullamasud.rana">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40"/>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/mdabdullamasud.rana" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white" alt="Facebook" height="45"/>
   </a>
-  <a href="https://twitter.com/mdmasud83732961">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="40"/>
+  <!-- Twitter -->
+  <a href="https://twitter.com/mdmasud83732961" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter" height="45"/>
   </a>
-  <a href="https://www.codechef.com/users/mdabdullahal30">
-    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="40"/>
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/mdabdullahal30" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=flat&logo=codechef&logoColor=white" alt="CodeChef" height="45"/>
   </a>
-  <a href="https://codeforces.com/profile/abdullahal304">
-    <img src="https://img.shields.io/badge/-CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" height="40"/>
+  <!-- CodeForces -->
+  <a href="https://codeforces.com/profile/abdullahal304" target="_blank">
+    <img src="https://img.shields.io/badge/CodeForces-%231F8ACB.svg?&style=flat&logo=codeforces&logoColor=white" alt="CodeForces" height="45"/>
   </a>
-  <a href="https://leetcode.com/u/md_masud/">
-    <img src="https://img.shields.io/badge/-LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="40"/>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/md_masud/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FE7A16.svg?&style=flat&logo=leetcode&logoColor=white" alt="LeetCode" height="45"/>
   </a>
 </p>
 
@@ -34,18 +40,53 @@
 
 ## 👤 **About Me**
 
-- 👋 Hi, I’m **Md Abdullah Al Masud**
-- 👀 I’m passionate about **Web Development** and **Competitive Programming**
-- 🌱 Currently learning **MERN Stack Development** at **Programming Hero**
-- 📫 Reach me via email at [mdabdullahal304@gmail.com](mailto:mdabdullahal304@gmail.com)
+<div align="center">
+  <img src="https://i.ibb.co/KWgxWsd/masud.gif" alt="Masud's Dev Gif" width="320" />
+</div>
+
+- 👋 **Hi, I’m Md Abdullah Al Masud**
+- 👀 I’m a **Web Developer** and a **Competitive Programmer**
+- 🌱 Currently learning **MERN Stack Development** through **Programming Hero**
+- 📫 Feel free to reach me at: [mdabdullahal304@gmail.com](mailto:mdabdullahal304@gmail.com)
 
 ---
 
-## 💻 **GitHub Stats**
+## 💻 **Skills**
+
+### Frontend
+- **React**, **React Router**, **Next.js**, **TailwindCSS**, **Bootstrap**, **Slick Slider**, **SwiperJS**, **daisyUI**
+
+### Backend
+- **Node.js**, **Express.js**, **MongoDB**, **JWT Token**, **Firebase Authentication**, **Python Django**
+
+### Languages
+- **JavaScript (ES6)**, **Python**, **C**, **C++**, **HTML5**, **CSS3**, **SQL**
+
+### Tools & Applications
+- **Git**, **GitHub**, **VS Code**, **Figma**, **Netlify**, **Vercel**, **Postman**, **Chrome DevTools**
+
+---
+
+## 🌐 **GitHub Stats & Activity**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmasudrana271&show_icons=true&theme=radical" alt="Masud's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmasudrana271&show_icons=true&theme=merko&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmasudrana271&theme=merko&hide_border=true&fire=ffb86c" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🔥 **Contribution Activity**
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=mdmasudrana271&bg_color=212121&color=ff79c6&line=ffb86c&point=ff79c6&area=true&area_color=212121" alt="Contribution Activity"/>
+</p>
+
+---
+
 
 ---
 
