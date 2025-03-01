@@ -142,17 +142,18 @@
   <tr>
     <td align="center">
       <a href="https://codeforces.com/profile/abdullahal304">
-        <img width="400" src="https://cf.leedcode.com/p/abdullahal304?theme=dark&font=Montserrat&ext=heatmap" alt="Codeforces" />
+        <img width="400" src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?&style=flat&logo=codeforces&logoColor=white" alt="Codeforces" />
       </a>
     </td>
     <td align="center">
       <a href="https://www.codechef.com/users/mdabdullahal30">
-        <img width="400" src="https://www.codechef.com/users/mdabdullahal30?theme=dark&font=Montserrat&ext=heatmap" alt="Codechef" />
+        <img width="400" src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=flat&logo=codechef&logoColor=white" alt="Codechef" />
       </a>
     </td>
   </tr>
 </table>
 </div>
+
 
 
 
