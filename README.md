@@ -50,27 +50,26 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
   <tr>
     <td align="center">
       <a href="#">
-        <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=
-mdmasudrana271&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=FFFFFF&background=161B22" />
+        <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=mdmasudrana271&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=FFFFFF&background=161B22" />
       </a>
     </td>
     <td align="center">
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=
-mdmasudrana271&show_icons=true&theme=transparent&text_color=A6A6A6&icon_color=E25822&bg_color=161B22&border_color=FFFFFF&count_private=true&include_all_commits=true" alt="Md_Masud" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api?username=mdmasudrana271&show_icons=true&theme=transparent&text_color=A6A6A6&icon_color=E25822&bg_color=161B22&border_color=FFFFFF&count_private=true&include_all_commits=true" alt="mdmasudrana271" />
     </td>
   </tr>
   
   <!-- Second row: Language stats and Leetcode badge -->
   <tr>
     <td align="center">
-      <img width="400" src="https://leetcode-badge-sage.vercel.app/badge/Md_Masud?theme=dark&bgColor=282828&border_radius=10" alt="abdullahal304 :: Leetcode" />
+      <img width="400" src="https://leetcode-badge-sage.vercel.app/badge/Md_Masud?theme=dark&bgColor=282828&border_radius=10" alt="Md_Masud :: Leetcode" />
     </td>
     <td align="center">
-      <img width="350" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Md_Masud&hide=HTML&langs_count=8&layout=compact&theme=transparent&text_color=A6A6A6&icon_color=E25822&bg_color=161B22&border_color=FFFFFF&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+      <img width="350" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mdmasudrana271&hide=HTML&langs_count=8&layout=compact&theme=transparent&text_color=A6A6A6&icon_color=E25822&bg_color=161B22&border_color=FFFFFF&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     </td>
   </tr>
 </table>
 </div>
+
 
 
 
