@@ -51,44 +51,6 @@
 
 ---
 
-## 💻 **Skills**
-
-### Frontend
-- **React**, **React Router**, **Next.js**, **TailwindCSS**, **Bootstrap**, **Slick Slider**, **SwiperJS**, **daisyUI**
-
-### Backend
-- **Node.js**, **Express.js**, **MongoDB**, **JWT Token**, **Firebase Authentication**, **Python Django**
-
-### Languages
-- **JavaScript (ES6)**, **Python**, **C**, **C++**, **HTML5**, **CSS3**, **SQL**
-
-### Tools & Applications
-- **Git**, **GitHub**, **VS Code**, **Figma**, **Netlify**, **Vercel**, **Postman**, **Chrome DevTools**
-
----
-
-## 🌐 **GitHub Stats & Activity**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmasudrana271&show_icons=true&theme=merko&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmasudrana271&theme=merko&hide_border=true&fire=ffb86c" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🔥 **Contribution Activity**
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mdmasudrana271&bg_color=212121&color=ff79c6&line=ffb86c&point=ff79c6&area=true&area_color=212121" alt="Contribution Activity"/>
-</p>
-
----
-
-
----
 
 
 
