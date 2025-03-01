@@ -40,75 +40,51 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 ## 🚀 Languages & Tools:
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C"/>
-        <br><small>C</small>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
-        <br><small>C++</small>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-        <br><small>Python</small>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-        <br><small>JavaScript</small>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
-        <br><small>TypeScript</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React"/>
-        <br><small>React</small>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="50" height="50" alt="Django"/>
-        <br><small>Django</small>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
-        <br><small>Node.js</small>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50" alt="Express.js"/>
-        <br><small>Express.js</small>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
-        <br><small>MongoDB</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
-        <br><small>MySQL</small>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
-        <br><small>PostgreSQL</small>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-        <br><small>Git</small>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase"/>
-        <br><small>Firebase</small>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
-        <br><small>Linux</small>
-      </td>
-    </tr>
-  </table>
+  
+### **💻 Programming Languages**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+</p>
+
+### **🖥️ Frontend Development**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="NextJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="TailwindCSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase"/>
+</p>
+
+### **🛠️ Backend & Databases**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50" alt="Express.js"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" height="50" alt="Django (DRF)"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+</p>
+
+### **🔗 Libraries & Tools**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50" height="50" alt="NPM"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" height="50" alt="Netlify"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="50" height="50" alt="Vercel"/>
+</p>
+
 </div>
+
 
 
 
