@@ -67,7 +67,7 @@
 
 <table>
   <tr>
-    <td colspan="4" align="center">
+    <td colspan="4" align="start">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=00FFD1&width=600&lines=My+Technology+Stack" />
     </td>
   </tr>
