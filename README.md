@@ -5,36 +5,51 @@
 </h1>
 <h3 align="center">🌟 Software Developer | Problem Solver | Competitive Programmer 🌟</h3>
 
-## :mailbox: Reach me out
+---
 
-<br />
+## 📬 **Reach me out**
 
-[<img align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-abdullahalmasud/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mdabdullamasud.rana)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/mdmasud83732961)
-
-<br />
-
-## :eyes: Current overview
-<!---
-<div align="left">
-<a href="#"><img align="right" src="https://i.ibb.co/tJC7pJP/Green-Teal-Geometric-Modern-Computer-Programmer-Code-Editor-Quotes-Instagram-Post.gif" width="300" alt="Masud's Dev Card"/></a>
-</div>
---->
-
-# About Me
-- 👋 Hi, I’m Md Abdullah Al Masud
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Mern Stack Development On Programming Hero
-- 📫 How to reach me at mdabdullahal304@gmail.com
-
-
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-abdullahalmasud/" target="blank"><img align="center" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-abdullahalmasud/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mdabdullamasud.rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdabdullamasud.rana" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mdabdullahal30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mdabdullahal30" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abdullahal304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdullahal304" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/md_masud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/md_masud/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-abdullahalmasud/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/mdabdullamasud.rana">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40"/>
+  </a>
+  <a href="https://twitter.com/mdmasud83732961">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="40"/>
+  </a>
+  <a href="https://www.codechef.com/users/mdabdullahal30">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="40"/>
+  </a>
+  <a href="https://codeforces.com/profile/abdullahal304">
+    <img src="https://img.shields.io/badge/-CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/md_masud/">
+    <img src="https://img.shields.io/badge/-LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="40"/>
+  </a>
 </p>
+
+---
+
+## 👤 **About Me**
+
+- 👋 Hi, I’m **Md Abdullah Al Masud**
+- 👀 I’m passionate about **Web Development** and **Competitive Programming**
+- 🌱 Currently learning **MERN Stack Development** at **Programming Hero**
+- 📫 Reach me via email at [mdabdullahal304@gmail.com](mailto:mdabdullahal304@gmail.com)
+
+---
+
+## 💻 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmasudrana271&show_icons=true&theme=radical" alt="Masud's GitHub Stats"/>
+</p>
+
+---
+
+
 
 
 ## 🚀 Tech Stack & Tools  
