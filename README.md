@@ -137,8 +137,23 @@
       <img width="350" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mdmasudrana271&hide=HTML&langs_count=8&layout=compact&theme=gruvbox&text_color=C9D1D9&icon_color=00E1FF&bg_color=0A0A0A&border_color=FFFFFF&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     </td>
   </tr>
+
+  <!-- Third row: Codeforces and CodeChef badges -->
+  <tr>
+    <td align="center">
+      <a href="https://codeforces.com/profile/abdullahal304">
+        <img width="400" src="https://cf.leedcode.com/p/abdullahal304?theme=dark&font=Montserrat&ext=heatmap" alt="Codeforces" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.codechef.com/users/mdabdullahal30">
+        <img width="400" src="https://www.codechef.com/users/mdabdullahal30?theme=dark&font=Montserrat&ext=heatmap" alt="Codechef" />
+      </a>
+    </td>
+  </tr>
 </table>
 </div>
+
 
 
 
