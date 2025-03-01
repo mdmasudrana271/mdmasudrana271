@@ -12,27 +12,27 @@
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/md-abdullahalmasud/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="45"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"/>
   </a>
   <!-- Facebook -->
   <a href="https://www.facebook.com/mdabdullamasud.rana" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white" alt="Facebook" height="45"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="50"/>
   </a>
   <!-- Twitter -->
   <a href="https://twitter.com/mdmasud83732961" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter" height="45"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="50"/>
   </a>
   <!-- CodeChef -->
   <a href="https://www.codechef.com/users/mdabdullahal30" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=flat&logo=codechef&logoColor=white" alt="CodeChef" height="45"/>
+    <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="50"/>
   </a>
   <!-- CodeForces -->
   <a href="https://codeforces.com/profile/abdullahal304" target="_blank">
-    <img src="https://img.shields.io/badge/CodeForces-%231F8ACB.svg?&style=flat&logo=codeforces&logoColor=white" alt="CodeForces" height="45"/>
+    <img src="https://img.shields.io/badge/CodeForces-%231F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces" height="50"/>
   </a>
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/md_masud/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FE7A16.svg?&style=flat&logo=leetcode&logoColor=white" alt="LeetCode" height="45"/>
+    <img src="https://img.shields.io/badge/LeetCode-%23FE7A16.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="50"/>
   </a>
 </p>
 
@@ -45,10 +45,16 @@
 </div>
 
 - 👋 **Hi, I’m Md Abdullah Al Masud**
-- 👀 I’m a **Web Developer** and a **Competitive Programmer**
-- 🌱 Currently learning **MERN Stack Development** through **Programming Hero**
+- 👀 I’m a **Web Developer** and a **Competitive Programmer** with a passion for building high-quality software applications.
+- 🌱 I have completed the **MERN Stack Development** course through **Programming Hero**, and **Python Django** through **Phitron**.
+- 🚀 I specialize in building dynamic **frontend applications** using **React.js**, **Next.js**, and **TailwindCSS**.
+- 💻 On the backend side, I work with **Node.js**, **Express.js**, and **MongoDB**, while also utilizing **Python Django** for building robust, scalable applications.
+- 🌍 In addition to my skills, I’m passionate about learning new technologies and always strive to improve my problem-solving abilities.
+- 📚 I love competitive programming and enjoy solving **algorithmic challenges** on **CodeForces**, **LeetCode**, and **CodeChef**.
+- 🎯 My goal is to continue growing as a software developer by exploring cutting-edge technologies and contributing to open-source projects.
 - 📫 Feel free to reach me at: [mdabdullahal304@gmail.com](mailto:mdabdullahal304@gmail.com)
 
+---
 ---
 
 
