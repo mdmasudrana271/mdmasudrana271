@@ -49,29 +49,30 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
   </tr>
 
   <tr>
-    <td align="center" width="150px"><b>Languages</b></td>
-    <td align="center" width="150px"><b>Frontend</b></td>
-    <td align="center" width="150px"><b>Backend</b></td>
-    <td align="center" width="150px"><b>Tools & Others</b></td>
+    <td align="center" width="200px"><b>Languages</b></td>
+    <td align="center" width="200px"><b>Frontend</b></td>
+    <td align="center" width="200px"><b>Backend</b></td>
+    <td align="center" width="200px"><b>Tools & Others</b></td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,js" height="40"/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,js" height="55"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,firebase" height="40"/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,firebase" height="55"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres" height="40"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgres" height="55"/>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" height="40"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" height="55"/>
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 
