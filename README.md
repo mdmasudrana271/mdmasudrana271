@@ -3,8 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Md+Abdullah+Al+Masud;
 &center=true&size=30&color=FFFFFF&weight=900&width=800">
   </a>
-  <p>A passionate Software Developer from Bangladesh</p>
 </h1>
+<p>A passionate Software Developer from Bangladesh</p>
 
 
 
