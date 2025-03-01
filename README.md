@@ -45,8 +45,8 @@
 </div>
 
 - 👋 **Hi, I’m Md Abdullah Al Masud**
-- 👀 I’m a **Software Developer** and a **Competitive Programmer** with a passion for building high-quality software applications.
-- 🌱 I have completed the **MERN Stack Development** course through **Programming Hero**, and **Python Django** through **Phitron**.
+- 👀 I’m a **Software Developer** and a **Competitive Programmer** passionate about building high-quality software applications.
+- 🌱 I have completed the **MERN Stack Development** course through **Programming Hero**, and **CSE Fundamentals** course through **Phitron**.
 - 🚀 I specialize in building dynamic **frontend applications** using **React.js**, and **TailwindCSS**.
 - 💻 On the backend side, I work with **Node.js**, **Express.js**, and **MongoDB**, while also utilizing **Python Django** for building robust, scalable applications.
 - 🌍 In addition to my skills, I’m passionate about learning new technologies and always strive to improve my problem-solving abilities.
