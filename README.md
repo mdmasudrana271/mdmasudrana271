@@ -116,7 +116,7 @@
 
 <div align="center">
  <table>
-  <!-- First row: GitHub streak and GitHub stats -->
+  <!-- First row: GitHub streak and GitHub stats img -->
   <tr>
     <td align="center">
       <a href="#">
